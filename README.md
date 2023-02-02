@@ -29,5 +29,5 @@ Dropout: 0.1
 # Training
 Early Stopping
 
-# Testing and Valudation
+# Testing and Validation
 - Accuracy: 85.85%
