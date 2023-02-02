@@ -12,7 +12,7 @@ Churn rate measures the number of customers or employees who leave the bank duri
 - Pandas
 - Matplotlib
 
-# Optimizers Used
+# Optimizer Used
 - Adam
 
 # Activation Functions Used
