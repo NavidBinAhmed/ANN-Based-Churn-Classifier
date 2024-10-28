@@ -6,6 +6,7 @@ A churn predictor for a bank is developed using Artificial Neural Network archit
 Churn rate measures the number of customers or employees who leave the bank during a given period.
 
 # Necessary Tools
+[![](https://skillicons.dev/icons?i=python,tensorflow,keras&theme=dark)](https://skillicons.dev)
 - TensorFlow
 - Keras
 - Numpy
